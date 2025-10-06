@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# For Mac (hidden file in every mac folder)
+.DS_Store
+
+# if i do not want to include data files .csv
